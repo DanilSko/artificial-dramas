@@ -1,0 +1,478 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="yvan">
+            <persName>ИВАН</persName>
+          </person>
+          <person sex="MALE" xml:id="horkykh">
+            <persName>ГОРЬКИХ</persName>
+          </person>
+          <person sex="MALE" xml:id="staryk">
+            <persName>СТАРИК</persName>
+          </person>
+          <person sex="FEMALE" xml:id="maryna">
+            <persName>МАРИНА</persName>
+          </person>
+          <person sex="FEMALE" xml:id="krestjanka">
+            <persName>КРЕСТЬЯНКА</persName>
+          </person>
+          <person sex="MALE" xml:id="khozjayn">
+            <persName>ХОЗЯИН</persName>
+          </person>
+          <person sex="FEMALE" xml:id="maryja">
+            <persName>МАРИЯ</persName>
+          </person>
+          <person sex="FEMALE" xml:id="anna">
+            <persName>АННА</persName>
+          </person>
+          <person sex="FEMALE" xml:id="baba">
+            <persName>БАБА</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ПЕРВОЕ</head>
+        <stage>(Гостиная в доме помещика.)</stage> 
+        <stage>Входят ГОРЬКИХ, БАБА, МАРИНА.</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ </speaker>
+          <stage>(садится на диван)</stage>
+          <p>.Бабка, принеси мне чаю.</p>
+        </sp>
+        <sp who="#baba">
+          <speaker>БАБА </speaker>
+          <stage>(уходит)</stage>
+          <p>.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА </speaker>
+          <stage>(садится рядом с ГОРЬКИХ)</stage>
+          <p>.Что-то ты сегодня невеселый, дядя.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ </speaker>
+          <stage>(вздыхает)</stage>
+          <p>.Да, невеселый. На душе тяжело.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Что случилось?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Да ничего особенного. Просто задумался о жизни.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.О жизни?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Да. О том, как она быстротечна, как много в ней всего происходит.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.И что ты из этого всего выводишь?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Вывод один: нужно жить каждый день, как будто это последний.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Хороший вывод. Я тоже так думаю.</p>
+        </sp>
+        <stage>(Входит БАБА с чаем.)</stage>
+        <sp who="#baba">
+          <speaker>БАБА</speaker>
+          <p>.Вот, дядя, чай.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ </speaker>
+          <stage>(пьет чай)</stage>
+          <p>.Спасибо, бабушка.</p>
+        </sp>
+        <stage>(БАБА уходит.)</stage>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.А что ты собираешься делать сегодня?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Не знаю. Может быть, пойду в лес, погуляю.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Хорошо. Я тоже пойду с тобой.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Хорошо.</p>
+        </sp>
+        <stage>(ГОРЬКИХ и МАРИНА встают и уходят.)</stage>
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ВТОРОЕ</head>
+        <stage>(Лес.)</stage><stage> Входят ГОРЬКИХ, МАРИНА, и КРЕСТЬЯНКА.</stage><sp who="#krestjanka">
+          <speaker>КРЕСТЬЯНКА</speaker>
+          <p>.Здравствуйте, Горькие.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Здравствуйте.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Кто это?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Это крестьянка, которая живет в этой деревне.</p>
+        </sp>
+        <sp who="#krestjanka">
+          <speaker>КРЕСТЬЯНКА</speaker>
+          <p>.Я слышала, что вы недавно приехали из города.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Да, мы приехали вчера.</p>
+        </sp>
+        <sp who="#krestjanka">
+          <speaker>КРЕСТЬЯНКА</speaker>
+          <p>.Как вам здесь нравится?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Нам здесь очень нравится. Здесь так спокойно и красиво.</p>
+        </sp>
+        <sp who="#krestjanka">
+          <speaker>КРЕСТЬЯНКА</speaker>
+          <p>.Я рада, что вам здесь нравится.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Мы хотели бы узнать о жизни в деревне.</p>
+        </sp>
+        <sp who="#krestjanka">
+          <speaker>КРЕСТЬЯНКА</speaker>
+          <p>.Я с удовольствием расскажу вам о жизни в деревне.</p>
+        </sp>
+        <stage>(КРЕСТЬЯНКА рассказывает ГОРЬКИХ и МАРИНЕ о жизни в деревне.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Спасибо вам за рассказ. Нам было очень интересно узнать о жизни в деревне.</p>
+        </sp>
+        <sp who="#krestjanka">
+          <speaker>КРЕСТЬЯНКА</speaker>
+          <p>.Вы не за что. Я всегда рада рассказать о своей жизни.</p>
+        </sp>
+        <stage>(ГОРЬКИХ, МАРИНА, и КРЕСТЬЯНКА прощаются.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я рад, что мы встретили эту крестьянку. Она нам многое рассказала о жизни в деревне.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Да, она нам очень помогла. Теперь мы знаем, как живут люди в деревне.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я думаю, что мы еще не раз встретимся с этой крестьянкой.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Я тоже так думаю.</p>
+        </sp>
+        <stage>(ГОРЬКИХ и МАРИНА уходят.)</stage>
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ТРЕТЬЕ</head>
+        <stage>(Крестьянская изба.)</stage><stage> Входят ГОРЬКИХ, МАРИНА, КРЕСТЬЯНКА, и ХОЗЯИН.</stage><sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Здравствуйте, гости.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Здравствуйте.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Добрый день.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Что привело вас в нашу деревню?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Мы приехали из города, чтобы узнать о жизни в деревне.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Вы обратились по адресу. Я могу вам многое рассказать о жизни в деревне.</p>
+        </sp>
+        <stage>(ХОЗЯИН рассказывает ГОРЬКИХ и МАРИНЕ о жизни в деревне.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Спасибо вам за рассказ. Нам было очень интересно узнать о жизни в деревне.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Вы не за что. Я всегда рад рассказать о своей жизни.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.У нас есть еще один вопрос. Мы хотели бы узнать о вашей семье.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.У меня есть жена и двое детей.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Как они зовутся?</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Жену зовут Анна, а детей - Иван и Мария.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Какие они?</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Они хорошие дети. Иван помогает мне по хозяйству, а Мария помогает матери по дому.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Мы рады за вас.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Спасибо.</p>
+        </sp>
+        <stage>(ГОРЬКИХ, МАРИНА, КРЕСТЬЯНКА, и ХОЗЯИН прощаются.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я рад, что мы познакомились с этой семьей. Они нам очень понравились.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Да, они очень гостеприимные и добрые люди.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я думаю, что мы еще не раз встретимся с этой семьей.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Я тоже так думаю.</p>
+        </sp>
+        <stage>(ГОРЬКИХ и МАРИНА уходят.)</stage>
+        <!--  GPT metacomment: **Новые персонажи:*** ХОЗЯИН - крестьянин, хозяин избы* АННА - жена ХОЗЯИНА* ИВАН - сын ХОЗЯИНА* МАРИЯ - дочь ХОЗЯИНА**Новые события:*** ГОРЬКИХ и МАРИНА знакомятся с ХОЗЯИНОМ и его семьей.* ГОРЬКИХ и МАРИНА узнают о жизни крестьянской семьи.* ГОРЬКИХ и МАРИНА прощаются с ХОЗЯИНОМ и его семьей.**Удаленные персонажи:*** КРЕСТЬЯНКА <stage>(из второго акта)</stage> --> 
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ЧЕТВЁРТОЕ</head>
+        <stage>(Холм за деревней.)</stage> <stage><stage>Входят ГОРЬКИХ, МАРИНА, КРЕСТЬЯНКА, ХОЗЯИН, АННА, ИВАН, и МАРИЯ.</stage></stage><sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Мы так рады, что снова встретились.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.И мы рады вас видеть.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>АННА</speaker>
+          <p>.Мы приготовили для вас угощение.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Спасибо вам.</p>
+        </sp>
+        <stage>(Все садятся на холме.)</stage>
+        <sp who="#yvan">
+          <speaker>ИВАН</speaker>
+          <p>.Мы хотим вам рассказать о нашей жизни.</p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p>.Мы живем в деревне, и у нас есть много работы.</p>
+        </sp>
+        <sp who="#yvan">
+          <speaker>ИВАН</speaker>
+          <p>.Но мы не жалуемся. Мы любим нашу жизнь.</p>
+        </sp>
+        <sp who="#maryja">
+          <speaker>МАРИЯ</speaker>
+          <p>.И мы любим наших родителей.</p>
+        </sp>
+        <sp who="#yvan">
+          <speaker>ИВАН</speaker>
+          <p>.Они для нас самые важные люди в мире.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Мы счастливы, что вы так счастливы.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Мы тоже счастливы.</p>
+        </sp>
+        <stage>(Все молчат.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я думаю, что пора нам возвращаться.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Да, пора.</p>
+        </sp>
+        <stage>(Все встают.)</stage>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Мы будем скучать по вам.</p>
+        </sp>
+        <sp who="#anna">
+          <speaker>АННА</speaker>
+          <p>.Да, мы тоже будем скучать.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Мы тоже будем скучать по вам.</p>
+        </sp>
+        <stage>(ГОРЬКИХ, МАРИНА, КРЕСТЬЯНКА, ХОЗЯИН, АННА, ИВАН, и МАРИЯ прощаются.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я рад, что мы познакомились с этой семьей. Они нам очень понравились.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Да, они очень гостеприимные и добрые люди.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я думаю, что мы еще не раз встретимся с этой семьей.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Я тоже так думаю.</p>
+        </sp>
+        <stage>(ГОРЬКИХ и МАРИНА уходят.)</stage>
+        <!-- GPT metacomment: **Новые персонажи:*** ИВАН - сын ХОЗЯИНА* МАРИЯ - дочь ХОЗЯИНА**Новые события:*** ГОРЬКИХ и МАРИНА снова встречаются с ХОЗЯИНОМ и его семьей.* ГОРЬКИХ и МАРИНА узнают больше о жизни крестьянской семьи.* ГОРЬКИХ и МАРИНА прощаются с ХОЗЯИНОМ и его семьей.**Удаленные персонажи:*** КРЕСТЬЯНКА <stage>(из второго акта)</stage> -->
+      </div>
+      <div type="scene">
+        <head>ДЕЙСТВИЕ ПЯТОЕ</head>
+        <stage>(Берег реки.)</stage><stage> Входят ГОРЬКИХ, МАРИНА, ХОЗЯИН, АННА, ИВАН, МАРИЯ, и СТАРИК.</stage><sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.Здравствуйте, гости.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Здравствуйте.</p>
+        </sp>
+        <sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.Что привело вас сюда?</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Мы гуляли по деревне и увидели вас.</p>
+        </sp>
+        <sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.Я рад, что вас заинтересовало наше село.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Мы бы хотели узнать о вашей жизни.</p>
+        </sp>
+        <sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.Я с удовольствием расскажу вам о своей жизни.</p>
+        </sp>
+        <stage>(СТАРИК рассказывает ГОРЬКИХ, МАРИНЕ, ХОЗЯИНУ, АННЕ, ИВАНУ, и МАРИИ о своей жизни.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Спасибо вам за рассказ. Нам было очень интересно узнать о вашей жизни.</p>
+        </sp>
+        <sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.Вы не за что. Я всегда рад рассказать о своей жизни.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.С дедушкой Иваном вы можете поговорить о многом. Он много повидал на своем веку.</p>
+        </sp>
+        <sp who="#yvan">
+          <speaker>ИВАН</speaker>
+          <p>.Да, дедушка, расскажи им о войне.</p>
+        </sp>
+        <sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.О войне? Хорошо.</p>
+        </sp>
+        <stage>(СТАРИК рассказывает о войне.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Спасибо вам за рассказ. Мы никогда не слышали о войне из первых уст.</p>
+        </sp>
+        <sp who="#staryk">
+          <speaker>СТАРИК</speaker>
+          <p>.Вы не за что. Я рад, что смог вам что-то рассказать.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Мы должны идти. Спасибо вам за гостеприимство.</p>
+        </sp>
+        <sp who="#khozjayn">
+          <speaker>ХОЗЯИН</speaker>
+          <p>.Не за что. Мы всегда рады гостям.</p>
+        </sp>
+        <stage>(ГОРЬКИХ, МАРИНА, ХОЗЯИН, АННА, ИВАН, МАРИЯ, и СТАРИК прощаются.)</stage>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я рад, что мы познакомились с этой семьей. Они нам очень понравились.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Да, они очень гостеприимные и добрые люди.</p>
+        </sp>
+        <sp who="#horkykh">
+          <speaker>ГОРЬКИХ</speaker>
+          <p>.Я думаю, что мы еще не раз встретимся с этой семьей.</p>
+        </sp>
+        <sp who="#maryna">
+          <speaker>МАРИНА</speaker>
+          <p>.Я тоже так думаю.</p>
+        </sp>
+        <stage>(ГОРЬКИХ и МАРИНА уходят.)</stage>
+        <!-- GPT metacomment **Новые персонажи:*** СТАРИК - старый крестьянин, ветеран войны**Новые события:*** ГОРЬКИХ и МАРИНА встречают старого крестьянина.* ГОРЬКИХ и МАРИНА узнают о жизни крестьянина.* ГОРЬКИХ и МАРИНА слушают рассказ старика о войне.* ГОРЬКИХ и МАРИНА прощаются с семьей ХОЗЯИНА.**Удаленные персонажи:*** КРЕСТЬЯНКА <stage>(из второго акта)</stage> -->
+      </div>
+    </body>
+  </text>
+</TEI>

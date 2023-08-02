@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="marie">
+            <persName>MARIE</persName>
+          </person>
+          <person sex="MALE" xml:id="félix">
+            <persName>FÉLIX</persName>
+          </person>
+          <person sex="MALE" xml:id="anne">
+            <persName>ANNE</persName>
+          </person>
+          <person sex="MALE" xml:id="le docteur">
+            <persName>LE DOCTEUR</persName>
+          </person>
+          <person sex="MALE" xml:id="jean">
+            <persName>JEAN</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>ACTE I</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>* Un salon bourgeois au XIXe siècle.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>, une jeune femme de 25 ans, est assise sur un canapé. Elle est en larmes.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne peux pas le croire. Il m'a quittée.* La porte s'ouvre et JEAN, son mari, entre.</p>
+        </sp>
+        <stage>(Elle se lève et se promène dans la pièce.)</stage>
+        <stage>(Elle s'effondre sur le canapé.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Marie, chérie, je suis désolée. Je ne voulais pas te faire de mal.</p>
+        </sp>
+        <stage>(Il s'approche de Marie.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Tu m'as quittée. Comment as-tu pu faire ça ?</p>
+        </sp>
+        <stage>(Elle se lève et le regarde.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Je sais que c'est difficile à comprendre, mais je ne suis plus amoureux de toi.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Mais pourquoi ? Qu'ai-je fait ?</p>
+        </sp>
+        <stage>(Elle éclate en sanglots.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Rien. Tu n'as rien fait. C'est moi, le problème. Je ne suis pas l'homme que tu pensais que j'étais.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Tu ne m'aimes plus ?</p>
+        </sp>
+        <stage>(Elle le regarde, incrédule.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Je ne sais pas si je t'ai jamais aimée.* Marie se met à pleurer de nouveau. Jean la prend dans ses bras.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Je suis désolé, Marie. Je ne voulais pas te faire de mal.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Va-t'en. Je ne veux plus te voir.</p>
+        </sp>
+        <stage>(Elle se détache de lui.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>* Marie reste seule dans la pièce. Elle s'effondre sur le canapé et continue à pleurer.</p>
+        </sp>
+        <stage>(Il la regarde, un moment, puis il se tourne et sort de la pièce.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE II</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>* Le même salon bourgeois.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>est assise sur le canapé, toujours en larmes.* La porte s'ouvre et une femme entre.</p>
+        </sp>
+        <sp who="#félix">
+          <speaker>FÉLIX</speaker>
+          <p>Marie, ma chère, je suis désolée d'apprendre ce qui s'est passé.</p>
+        </sp>
+        <stage>(Elle s'approche de Marie.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Félix ! Je suis si contente de te voir.</p>
+        </sp>
+        <stage>(Elle se lève et la regarde.)</stage>
+        <sp who="#félix">
+          <speaker>FÉLIX</speaker>
+          <p>Je suis là pour toi, Marie.* Marie se met à pleurer de nouveau. Félix la console.</p>
+        </sp>
+        <stage>(Elle la prend dans ses bras.)</stage>
+        <sp who="#félix">
+          <speaker>FÉLIX</speaker>
+          <p>Je sais que c'est difficile, mais tu vas t'en sortir.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne sais pas comment. Je l'aimais tellement.</p>
+        </sp>
+        <sp who="#félix">
+          <speaker>FÉLIX</speaker>
+          <p>Je sais. Mais il ne t'aime plus. Et tu mérites mieux que ça.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Tu crois ?</p>
+        </sp>
+        <sp who="#félix">
+          <speaker>FÉLIX</speaker>
+          <p>Oui, je crois. Tu es une femme merveilleuse. Tu trouveras quelqu'un qui t'aimera pour ce que tu es.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je l'espère.* Félix et Marie continuent à parler.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>* Quelques jours plus tard.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>est assise sur le canapé, en train de lire une lettre.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>C'est de lui.* Elle lit la lettre à voix haute."Chère Marie,Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.S'il te plaît, donne-moi une chance.Ton amour,Jean"* Marie regarde la lettre, un moment, puis elle la plie et la met de côté.</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne lui pardonnerai jamais.* Marie sort de la pièce.I hope you like this act!</p>
+        </sp>
+        <stage>(Elle se lève.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE III</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>* Le même salon bourgeois.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>est assise sur le canapé, en train de lire une lettre.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>C'est de lui.* Elle lit la lettre à voix haute."Chère Marie,Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.S'il te plaît, donne-moi une chance.Ton amour,Jean"* Marie regarde la lettre, un moment, puis elle la plie et la met de côté.</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne lui pardonnerai jamais.* Marie sort de la pièce.* La porte s'ouvre et une femme entre.</p>
+        </sp>
+        <stage>(Elle se lève.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Marie, ma chère, je suis désolée d'apprendre ce qui s'est passé.</p>
+        </sp>
+        <stage>(Elle s'approche de Marie.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Anne ! Je suis si contente de te voir.</p>
+        </sp>
+        <stage>(Elle se retourne et la regarde.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je suis là pour toi, Marie.* Marie se met à pleurer de nouveau. Anne la console.</p>
+        </sp>
+        <stage>(Elle la prend dans ses bras.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je sais que c'est difficile, mais tu vas t'en sortir.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne sais pas comment. Je l'aimais tellement.</p>
+        </sp>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je sais. Mais il ne t'aime plus. Et tu mérites mieux que ça.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Tu crois ?</p>
+        </sp>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Oui, je crois. Tu es une femme merveilleuse. Tu trouveras quelqu'un qui t'aimera pour ce que tu es.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je l'espère.* Anne et Marie continuent à parler.</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scène 2</head>* Quelques jours plus tard.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>est assise sur le canapé, en train de lire une nouvelle lettre.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>C'est de lui.* Elle lit la lettre à voix haute."Chère Marie,Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.J'ai compris que je ne peux pas vivre sans toi. Je suis prêt à faire tout ce qu'il faut pour te prouver mon amour.S'il te plaît, donne-moi une chance.Ton amour,Jean"* Marie regarde la lettre, un moment, puis elle se lève.</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je vais lui donner une chance.* Marie sort de la pièce.* Anne, qui était restée silencieuse pendant toute la scène, se tourne vers le public.</p>
+        </sp>
+        <stage>(Elle se dirige vers la porte.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je crois qu'elle va lui pardonner.* Anne sort de la pièce.The end.I hope you like this act!</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE IV</head>
+      </div>
+      <div type="scene">
+        <head>Scène 1</head>* Le même salon bourgeois.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>est assise sur le canapé, en train de lire une nouvelle lettre.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>C'est de lui.* Elle lit la lettre à voix haute."Chère Marie,Je sais que je t'ai fait du mal. Je suis désolé. Je n'ai pas compris ce que j'avais avant de te perdre.Je t'aime. Je t'ai toujours aimée. Je veux te reconquérir.J'ai compris que je ne peux pas vivre sans toi. Je suis prêt à faire tout ce qu'il faut pour te prouver mon amour.S'il te plaît, donne-moi une chance.Ton amour,Jean"* Marie regarde la lettre, un moment, puis elle se lève.</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je vais lui donner une chance.* Marie sort de la pièce.* La porte s'ouvre et une femme entre.</p>
+        </sp>
+        <stage>(Elle se dirige vers la porte.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Marie, ma chère, je suis désolée d'apprendre ce qui s'est passé.</p>
+        </sp>
+        <stage>(Elle s'approche de Marie.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Anne ! Je suis si contente de te voir.</p>
+        </sp>
+        <stage>(Elle se retourne et la regarde.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je suis là pour toi, Marie.* Marie se met à pleurer de nouveau. Anne la console.</p>
+        </sp>
+        <stage>(Elle la prend dans ses bras.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je sais que c'est difficile, mais tu vas t'en sortir.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne sais pas comment. Je l'aimais tellement.</p>
+        </sp>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je sais. Mais il ne t'aime plus. Et tu mérites mieux que ça.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Tu crois ?</p>
+        </sp>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Oui, je crois. Tu es une femme merveilleuse. Tu trouveras quelqu'un qui t'aimera pour ce que tu es.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je l'espère.* Anne et Marie continuent à parler.* La porte s'ouvre et un homme entre.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Marie, je suis venu te parler.</p>
+        </sp>
+        <stage>(Il s'approche de Marie.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je n'ai rien à te dire.</p>
+        </sp>
+        <stage>(Elle se tourne vers lui.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Je sais que tu es en colère contre moi. Mais je t'en prie, écoute-moi.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je n'ai rien à écouter. Tu m'as trahie.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Je sais. Et je m'excuse. Je n'ai pas compris ce que j'avais avant de te perdre.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>C'est trop tard.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Non, ce n'est pas trop tard. Je t'aime. Je t'ai toujours aimée.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne t'aime plus.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>S'il te plaît, donne-moi une chance de te prouver que je t'aime.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je ne sais pas.</p>
+        </sp>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>S'il te plaît, Marie.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>D'accord. Je te donne une chance.</p>
+        </sp>
+        <stage>(Elle le regarde, un moment, puis elle se lève.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Merci, Marie. Je t'aime.</p>
+        </sp>
+        <stage>(Il la prend dans ses bras.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je t'aime aussi, Jean.* Jean et Marie s'embrassent.* Anne, qui était restée silencieuse pendant toute la scène, se tourne vers le public.</p>
+        </sp>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je crois qu'ils vont bien finir ensemble.* Anne sort de la pièce.* Jean et Marie continuent à s'embrasser.* Le rideau tombe.I hope you like this act!**</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+      </div>
+      <div type="scene">
+        <head>ACTE V**</head>**</div>
+      <div type="scene">
+        <head>Scène 1**</head>* Le même salon bourgeois.* Marie et Jean sont assis sur le canapé, en train de parler.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je suis si heureuse que tu m'aies pardonné.</p>
+        </sp>
+        <stage>(Elle sourit.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Moi aussi, je suis heureux. Je t'aime tellement, Marie.</p>
+        </sp>
+        <stage>(Il la prend dans ses bras.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je t'aime aussi, Jean.* Ils s'embrassent.* La porte s'ouvre et une femme entre.</p>
+        </sp>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je suis si contente pour vous deux.</p>
+        </sp>
+        <stage>(Elle s'approche de Marie et Jean.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Merci, Anne. Tu as toujours été là pour moi.</p>
+        </sp>
+        <stage>(Elle se tourne vers Anne.)</stage>
+        <sp who="#anne">
+          <speaker>ANNE</speaker>
+          <p>Je sais. Et je serai toujours là pour toi.* Anne, Marie, et Jean continuent à parler.**</p>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>Scène 2**</head>* Quelques mois plus tard.* Marie et Jean sont mariés. Ils vivent dans une petite maison à la campagne.<sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Je suis si heureuse d'être ta femme.</p>
+        </sp>
+        <stage>(Elle regarde Jean.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Moi aussi, je suis heureux d'être ton mari.* Ils s'embrassent.* La porte s'ouvre et un homme entre.</p>
+        </sp>
+        <sp who="#le docteur">
+          <speaker>LE DOCTEUR</speaker>
+          <p>Félicitations, mes amis. Vous êtes parents d'une petite fille.</p>
+        </sp>
+        <stage>(Il s'approche de Marie et Jean.)</stage>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Une petite fille ?</p>
+        </sp>
+        <stage>(Elle se tourne vers le docteur.)</stage>
+        <sp who="#le docteur">
+          <speaker>LE DOCTEUR</speaker>
+          <p>Oui, une petite fille. Elle est en parfaite santé.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>C'est une fille ! Je suis si heureuse !</p>
+        </sp>
+        <stage>(Elle se met à pleurer.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Moi aussi, je suis heureux. Nous avons une petite fille.* Jean et Marie s'embrassent.* Le docteur sort de la pièce.* Marie et Jean regardent leur petite fille.</p>
+        </sp>
+        <sp who="#marie">
+          <speaker>MARIE</speaker>
+          <p>Elle est si belle.</p>
+        </sp>
+        <stage>(Elle regarde Jean.)</stage>
+        <sp who="#jean">
+          <speaker>JEAN</speaker>
+          <p>Oui, elle est belle. Elle est comme sa mère.* Marie et Jean continuent à regarder leur petite fille.* Le rideau tombe.I hope you like this act!</p>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
