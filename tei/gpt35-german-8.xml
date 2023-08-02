@@ -41,9 +41,6 @@
           <ns0:person xml:id="leffebre" sex="MALE">
             <ns0:persName>LEFFEBRE			- Verwalter des Gutsherren</ns0:persName>
           </ns0:person>
-          <ns0:person xml:id="walpurga" sex="FEMALE">
-            <ns0:persName>WALPURGA:</ns0:persName>
-          </ns0:person>
         </ns0:listPerson>
       </ns0:particDesc>
     </ns0:profileDesc>
